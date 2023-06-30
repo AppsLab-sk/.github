@@ -4,6 +4,8 @@
 
 AppsLab je zameraný na vývoj softvérových aplikácií, kde sa ako študent AppsLabu môžeš rozvíjať a učiť sa nové schopnosti. Naše učebné programy sú vedené skúsenými LabMastrov, ktorí ťa naučia programátorskému spôsobu uvažovania, trénovať schopnosť klásť správne otázky Google, spolužiakom ale aj sebe.
 
+## Študijný program
+
 Náš študijný program zahŕňa:
 * Základy programovania v C#
 * HTML
